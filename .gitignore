@@ -1,2 +1,5 @@
 .vscode
 .idea
+
+# Dont track performance file, may change on each commit
+performance

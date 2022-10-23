@@ -3,3 +3,8 @@
 
 # Dont track performance file, may change on each commit
 performance
+performance_**
+new_performance
+
+# Dont track other files that were going to submit for the report
+plots.pdf

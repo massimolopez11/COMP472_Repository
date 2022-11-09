@@ -11,3 +11,9 @@ Open a Miniconda terminal and install the following dependencies using the follo
 Then open up the jupiter notebook **MP1** either by using your favorite IDE (VsCode or Pycharm) or by running the jupiter notebook using the following command in your miniconda terminal:
 `cd <repo_path>`
 `jupyter notebook`
+
+### MP1
+We used jupyter notebook, these files will be moved to MP1 once the assignment grades are given so as to not tamper with the results/paths of the files.
+
+### MP2
+MP2 folder will contain all the python code in the form of .py files. Use this command to use the terminal for running miniconda base environment `source C:/Users/mlope/miniconda3/Scripts/activate base`
